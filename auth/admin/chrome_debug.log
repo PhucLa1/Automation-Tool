@@ -1,0 +1,39 @@
+[2872:17120:1120/151430.297:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.70 (not a warning)
+[2872:17120:1120/151430.386:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[16840:29868:1120/151430.528:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[2424:28380:1120/151430.532:INFO:cpu_info.cc(53)] Available number of cores: 12
+[12040:29524:1120/151430.538:INFO:cpu_info.cc(53)] Available number of cores: 12
+[30372:30528:1120/151430.792:INFO:cpu_info.cc(53)] Available number of cores: 12
+[18080:15748:1120/151430.931:INFO:cpu_info.cc(53)] Available number of cores: 12
+[2872:17120:1120/151430.955:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151431.068:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: http://localhost:3000/login-admin (0)
+[2872:17120:1120/151433.776:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.809:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151433.817:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151433.820:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151433.963:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.963:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.963:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151433.964:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-68b871199486c589.js (1)
+[2872:17120:1120/151435.685:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.687:INFO:CONSOLE(1)] "undefined", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.688:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.695:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.754:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.755:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.755:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.755:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.755:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.755:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.755:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.756:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.756:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[2872:17120:1120/151435.756:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-45a5ce36489b039d.js (1)
+[1848:24392:1120/151441.205:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[1848:24392:1120/151441.205:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
