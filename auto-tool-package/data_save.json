@@ -1,12 +1,16 @@
 [
   {
     "name": "Login Admin",
-    "file_name": "auth_admin.py",
     "function": "loginAdmin()"
   },
   {
     "name": "Add Position",
-    "file_name": "add_position.py",
     "function": "addPosition()"
+  },
+
+  {
+    "name": "Approve and Decline",
+    "function": "approveDecline()"
   }
+
 ]
