@@ -1,0 +1,42 @@
+[15004:10040:1121/151520.050:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.70 (not a warning)
+[15004:10040:1121/151520.141:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[26348:1784:1121/151520.271:INFO:cpu_info.cc(53)] Available number of cores: 12
+[26384:13932:1121/151520.271:INFO:cpu_info.cc(53)] Available number of cores: 12
+[15156:23388:1121/151520.272:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[12748:15772:1121/151520.524:INFO:cpu_info.cc(53)] Available number of cores: 12
+[21516:1980:1121/151520.600:INFO:cpu_info.cc(53)] Available number of cores: 12
+[15004:10040:1121/151520.627:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151520.739:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: http://localhost:3000/login-admin (0)
+[15004:10040:1121/151523.419:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.434:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.457:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151523.462:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151523.466:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151523.575:INFO:CONSOLE(1)] "SyntaxError: Unexpected token 'S', "System.Exc"... is not valid JSON", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.587:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.587:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.587:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.587:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.588:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.588:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.588:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.589:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151523.589:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151524.591:INFO:CONSOLE(1)] "SyntaxError: Unexpected token 'S', "System.Exc"... is not valid JSON", source: http://localhost:3000/_next/static/chunks/8315-16605ed1254beaed.js (1)
+[15004:10040:1121/151525.344:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.346:INFO:CONSOLE(1)] "undefined", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.347:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.361:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.424:INFO:CONSOLE(1)] "SyntaxError: Unexpected token 'S', "System.Exc"... is not valid JSON", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.427:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.427:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.427:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.428:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.428:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.428:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.428:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.429:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151525.429:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[15004:10040:1121/151526.437:INFO:CONSOLE(1)] "SyntaxError: Unexpected token 'S', "System.Exc"... is not valid JSON", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
+[22688:27068:1121/151528.449:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[22688:27068:1121/151528.449:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.

@@ -1,10 +1,9 @@
 from selenium import webdriver
-admin = "C:\\Users\\Hong Phuc\\Desktop\\Study\\Ki1-Nam4\\Project1\\AutomationTest\\auth\\admin"
 
-def login_admin(WebDriverWait, EC, time, By):
+def login_admin(WebDriverWait, EC, time, By, path):
     try:
         chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("user-data-dir="+admin)
+        chrome_options.add_argument("user-data-dir="+path)
         driver = webdriver.Chrome(options=chrome_options)
         driver.get('http://localhost:3000/login-admin')
         wait = WebDriverWait(driver, 10)
@@ -15,9 +14,7 @@ def login_admin(WebDriverWait, EC, time, By):
         time.sleep(2)
         btn_login = wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/div/div[2]/div[2]/form/div/button')))
         btn_login.click()
-        time.sleep(2)
-        driver.refresh()
-        time.sleep(10)
+        time.sleep(1000)
         return "Test auth admin successfully"
     except Exception as e:
         print(f"An error occurred: {e}")  # In ra thông báo lỗi
