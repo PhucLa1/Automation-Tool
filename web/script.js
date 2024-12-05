@@ -13,3 +13,35 @@ async function addPosition() {
         console.error("Error:", error);
     }
 }
+
+async function addBonus() {
+    try {
+        const result = await eel.add_bonus_main(); // Gọi hàm login từ Python
+    } catch (error) {
+        console.error("Error:", error);
+    }
+}
+
+async function addDeduction() {
+    try {
+        const result = await eel.add_deduction_main(); // Gọi hàm login từ Python
+    } catch (error) {
+        console.error("Error:", error);
+    }
+}
+
+async function addTaxRate() {
+    try {
+        const result = await eel.add_tax_rate_main(); // Gọi hàm login từ Python
+    } catch (error) {
+        console.error("Error:", error);
+    }
+}
+
+async function addBonusError() {
+    try {
+        const result = await eel.add_bonus_error_main(); // Gọi hàm login từ Python
+    } catch (error) {
+        console.error("Error:", error);
+    }
+}

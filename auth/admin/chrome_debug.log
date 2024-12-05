@@ -1,17 +1,19 @@
-[22440:22660:1121/224755.231:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.85 (not a warning)
-[22440:22660:1121/224755.364:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[7272:22568:1121/224755.504:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[25180:11432:1121/224755.550:INFO:cpu_info.cc(53)] Available number of cores: 12
-[10928:9648:1121/224755.555:INFO:cpu_info.cc(53)] Available number of cores: 12
-[28392:20532:1121/224755.835:INFO:cpu_info.cc(53)] Available number of cores: 12
-[6272:6636:1121/224755.891:INFO:cpu_info.cc(53)] Available number of cores: 12
-[22440:22660:1121/224755.926:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
-[22440:22660:1121/224755.927:INFO:CONSOLE(1)] "undefined", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
-[22440:22660:1121/224755.927:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
-[22440:22660:1121/224755.937:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-67afb4e46be75a01.js (1)
-[22440:22660:1121/224755.990:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
-[22440:22660:1121/224755.991:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
-[22440:22660:1121/224757.017:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
-[22440:22660:1121/224757.047:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
-[16824:27484:1121/224803.939:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
-[16824:27484:1121/224803.939:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[17808:19984:1122/012254.884:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.85 (not a warning)
+[17808:19984:1122/012255.003:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[17636:13628:1122/012255.151:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[17636:13628:1122/012255.157:ERROR:direct_composition_support.cc(1034)] QueryInterface to IDCompositionDevice4 failed: No such interface supported (0x80004002)
+[17808:21184:1122/012255.262:WARNING:leveldb_database.cc(141)] Unable to open D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata: IO error: D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17808:21184:1122/012255.268:WARNING:leveldb_database.cc(141)] Unable to open D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata: IO error: D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17808:21184:1122/012255.272:WARNING:leveldb_database.cc(141)] Unable to open D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata: IO error: D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17808:21184:1122/012255.277:WARNING:leveldb_database.cc(141)] Unable to open D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata: IO error: D:\Codes\Project1\Automation-Tool\auth\admin\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17808:21184:1122/012255.330:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17808:21184:1122/012255.335:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17808:19984:1122/012255.838:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
+[17808:19984:1122/012255.841:INFO:CONSOLE(1)] "undefined", source: http://localhost:3000/_next/static/chunks/app/layout-ded9535589dcd4e3.js (1)
+[17808:19984:1122/012255.842:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-ded9535589dcd4e3.js (1)
+[17808:19984:1122/012255.870:INFO:CONSOLE(1)] "[object Object]", source: http://localhost:3000/_next/static/chunks/app/layout-ded9535589dcd4e3.js (1)
+[17808:19984:1122/012255.972:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
+[17808:19984:1122/012305.487:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
+[17808:19984:1122/012305.489:INFO:CONSOLE(1)] "http data: [object Object]", source: http://localhost:3000/_next/static/chunks/2980-ab0d32e018993342.js (1)
+[16344:14240:1122/012307.281:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[16344:14240:1122/012307.281:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.

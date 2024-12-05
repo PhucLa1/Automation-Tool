@@ -8,5 +8,21 @@
     "name": "Add Position",
     "file_name": "add_position.py",
     "function": "addPosition()"
+  },
+  {
+    "name": "Add Bonus",
+    "function": "addBonus()"
+  },
+  {
+    "name": "Add Deduction",
+    "function": "addDeduction()"
+  },
+  {
+    "name": "Add Tax Rate",
+    "function": "addTaxRate()"
+  },
+  {
+    "name": "Add Bonus Error",
+    "function": "addBonusError()"
   }
 ]
