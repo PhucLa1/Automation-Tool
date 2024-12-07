@@ -30,22 +30,26 @@ def add_position(WebDriverWait, EC, time, By, path):
         driver = webdriver.Chrome(options=chrome_options)
         driver.get('http://localhost:3000/company/position')
         wait = WebDriverWait(driver, 10)
-        btn_add = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="content"]/div/div[2]/div[2]/div/div[1]/div[2]/button[1]')))
+        btn_add = wait.until(EC.presence_of_element_located(
+            (By.XPATH, '//*[@id="content"]/div/div[2]/div[2]/div/div[1]/div[2]/button[1]')))
         btn_add.click()
         txt_position_name = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'input[name="name"]')))
         txt_position_name.send_keys("Vij tri a")
         txt_amount = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="totalPositionsNeeded"]')))
         txt_amount.send_keys("4")
-        drop_department = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="radix-:rd:"]/form/div[1]/div[3]/select')))
+        drop_department = wait.until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="radix-:rd:"]/form/div[1]/div[3]/select')))
         select = Select(drop_department)
         select.select_by_index(1)
-        btn_save = wait.until(EC.presence_of_element_located((By.XPATH, '// *[ @ id = "radix-:rd:"] / form / div[2] / button[2]')))
+        btn_save = wait.until(
+            EC.presence_of_element_located((By.XPATH, '// *[ @ id = "radix-:rd:"] / form / div[2] / button[2]')))
         btn_save.click()
         time.sleep(10)
         driver.quit()
         return "Success"
     except:
         return "Error"
+
 
 def add_contract(WebDriverWait, EC, time, By, path):
     try:
@@ -54,11 +58,12 @@ def add_contract(WebDriverWait, EC, time, By, path):
         # edge_options.add_argument("user-data-dir="+path)
         # driver = webdriver.Edge(options=edge_options)
         chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("user-data-dir="+path)
+        chrome_options.add_argument("user-data-dir=" + path)
         driver = webdriver.Chrome(options=chrome_options)
         driver.get('http://localhost:3000/contract/contract-list')
         wait = WebDriverWait(driver, 10)
-        btn_add = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="content"]/div/div[2]/div[2]/div/div[1]/div[2]/button[1]')))
+        btn_add = wait.until(EC.presence_of_element_located(
+            (By.XPATH, '//*[@id="content"]/div/div[2]/div[2]/div/div[1]/div[2]/button[1]')))
         btn_add.click()
         # Fill
         txt_employee_name = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="name"]')))
@@ -69,7 +74,8 @@ def add_contract(WebDriverWait, EC, time, By, path):
         txt_countrySide.send_keys("Bắc Ninh")
         txt_nationalid = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="nationalID"]')))
         txt_nationalid.send_keys("008206000042")
-        txt_nationaladdress = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="nationalAddress"]')))
+        txt_nationaladdress = wait.until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="nationalAddress"]')))
         txt_nationaladdress.send_keys("Bắc Ninh")
         txt_level = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'input[name="level"]')))
         txt_level.send_keys("008206000042")
@@ -110,7 +116,8 @@ def add_contract(WebDriverWait, EC, time, By, path):
         # DateTime
         txt_date_of_birth = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'input[type="date"]')))[0]
         txt_date_of_birth.send_keys("01-01-2000")
-        txt_date_of_making_id = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'input[type="date"]')))[1]
+        txt_date_of_making_id = \
+        wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'input[type="date"]')))[1]
         txt_date_of_making_id.send_keys("01-01-2022")
         txt_date_of_start = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'input[type="date"]')))[2]
         txt_date_of_start.send_keys("11-24-2024")

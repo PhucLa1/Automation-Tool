@@ -1,16 +1,33 @@
 [
   {
     "name": "Login Admin",
+    "file_name": "auth_admin.py",
     "function": "loginAdmin()"
   },
   {
     "name": "Add Position",
+    "file_name": "add_position.py",
     "function": "addPosition()"
+  },
+  {
+    "name": "Add Bonus",
+    "function": "addBonus()"
+  },
+  {
+    "name": "Add Deduction",
+    "function": "addDeduction()"
+  },
+  {
+    "name": "Add Tax Rate",
+    "function": "addTaxRate()"
+  },
+  {
+    "name": "Add Bonus Error",
+    "function": "addBonusError()"
   },
 
   {
     "name": "Approve and Decline",
     "function": "approveDecline()"
   }
-
 ]
