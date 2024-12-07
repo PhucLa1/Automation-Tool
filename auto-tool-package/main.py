@@ -1,5 +1,4 @@
 import os
-
 import eel
 import pyautogui
 import time
